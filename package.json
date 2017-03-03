@@ -1,8 +1,8 @@
 {
-  "name": "source-firewall",
+  "name": "@sourcenetworks/node-firewall",
   "version": "0.0.1",
   "main": "./build/index.js",
-  "repository": "git@github.com:sourcenetworks/source-firewall.git",
+  "repository": "git@github.com:sourcenetworks/node-firewall.git",
   "author": "Source Co.",
   "license": "UNLICENSED",
   "scripts": {
